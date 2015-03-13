@@ -2,15 +2,15 @@
 <html>
 <head>Photos for the website</head>
 <body>
-<ul>
-    <li><img src="GRANDFATHERPHOTO.jpg"></li>
-    <li><img src="grandfatherphoto1.jpeg"></li>
-    <li><img src="grandfatherphoto2.jpg"></li>
-    <li><img src="grandfatherphoto3.jpeg"></li>
-    <li><img src="grandfatherphoto4.jpg"></li>
-    <li><img src="grandfatherphoto5.jpg"></li>
-    <li><img src="grandfatherwithphotos.jpg"></li>
-    <li><img src="international photo.jpg"></li>
-</ul>
+
+<img src="GRANDFATHERPHOTO.jpg" height="200" width="500"/>
+<img src="grandfatherphoto1.jpeg" height="200" width="500"/>
+<img src="grandfatherphoto2.jpg" height="200" width="500"/>
+<img src="grandfatherphoto3.jpeg"height="200" width="500"/>
+<img src="grandfatherphoto4.jpg"height="200" width="500"/>
+<img src="grandfatherphoto5.jpg" height="200" width="500"/>
+<img src="grandfatherwithphotos.jpg" height="200" width="500"/>
+<img src="international photo.jpg" height="200" width="500"/>
+
 </body>
 </html>

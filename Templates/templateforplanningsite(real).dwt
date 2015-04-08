@@ -1,12 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/212788PlanningSite/planningsite/Templates/templateforplanningsite(real).dwt" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<!-- InstanceBeginEditable name="doctitle" -->
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>Untitled Document</title>
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 <style type="text/css">
 #apDiv1 {
 	position:absolute;
@@ -77,7 +77,7 @@ function MM_preloadImages() { //v3.0
 </head>
 
 <body>
-<div id="apDiv1"><!-- InstanceBeginEditable name="buttons" -->buttons<!-- InstanceEndEditable -->
+<div id="apDiv1"><!-- TemplateBeginEditable name="buttons" -->buttons<!-- TemplateEndEditable -->
   <table style="display: inline-table;" border="0" cellpadding="0" cellspacing="0" width="1000">
     <!-- fwtable fwsrc="planningsitelinkbuttons.png" fwpage="Page 1" fwbase="FW_Buttons.jpg" fwstyle="Dreamweaver" fwdocid = "1646423204" fwnested="0" -->
     <tr>
@@ -109,15 +109,6 @@ function MM_preloadImages() { //v3.0
     </tr>
   </table>
 </div>
-<div id="apDiv2"><!-- InstanceBeginEditable name="content" -->
-     <h1>List of my brainstorming</h1>
-     <ul>
-       <li>Design an online platform for my grandparents' photography company to grab customers' attention</li>
-       <li>Design a website for all 2015 graduates, for them to put in anecdotes and images time to time for future remembrance</li>
-       <li>Design a website for myself to organize my art portfolio from childhood till present for future academic and career aspects</li>
-       <li>Design a online platform for G1 teacher Ms Angeles to record students' progress and performance from 2014 to 2015</li>
-     </ul>
-     <li><a href="Planning-site-photography.html"> This is my planning site.</a></li>
-   <!-- InstanceEndEditable --></div>
+<div id="apDiv2"><!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></div>
 </body>
-<!-- InstanceEnd --></html>
+</html>
